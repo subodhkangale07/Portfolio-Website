@@ -14,4 +14,5 @@ Welcome to the repository for personal portfolio website! This project showcases
 2. Open the project folder in your preferred code editor.
 3. Open the `index.html` file in your web browser.
 
-4. Happy coding
+
+ Happy coding
