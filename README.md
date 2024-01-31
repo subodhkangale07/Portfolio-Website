@@ -14,5 +14,14 @@ Welcome to the repository for personal portfolio website! This project showcases
 2. Open the project folder in your preferred code editor.
 3. Open the `index.html` file in your web browser.
 
+ ## Features
+
+- Responsive design for various screen sizes.
+- Sections for showcasing skills, projects, and contact information.
+- Smooth scrolling navigation.
+- Animated elements to enhance user experience.
+
+  
+
 
  Happy coding
